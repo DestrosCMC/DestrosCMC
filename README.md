@@ -1,5 +1,5 @@
 ## Hi there, my name is Kieran (DestrosCMC) 👋
-<img align="right" alt="GIF" height="275px" width="300px" src="/assets/coding_gif.gif" />
+<img align="right" alt="GIF" height="235px" width="300px" src="/assets/coding_gif.gif" />
 
 ### I am a student studying Data Science and Economics at CMC!
 
