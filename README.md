@@ -29,6 +29,11 @@
 
 ****** 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestrosCMC&layout=compact)](https://github.com/DestrosCMC/github-readme-stats)\
+### Projects I'm working on:
+![Revenue](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecast_revenue)
+![ESG](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=ESG_WebScraper)
+
+
 ![Kieran's github stats](https://github-readme-stats.vercel.app/api?username=DestrosCMC&show_icons=true)
 
 
