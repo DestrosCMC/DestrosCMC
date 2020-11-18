@@ -22,5 +22,5 @@
 <img align="left" alt="CPP" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/cpp_logo.png" />
 
 
-## Badges:
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DestrosCMC.visitor-badge)
