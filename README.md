@@ -23,5 +23,8 @@
 <br/>
 
 ****** 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestrosCMC&layout=compact)](https://github.com/DestrosCMC/github-readme-stats)\
+![Kieran's github stats](https://github-readme-stats.vercel.app/api?username=DestrosCMC&show_icons=true)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DestrosCMC.visitor-badge)
