@@ -1,6 +1,9 @@
-### Hi there, my name is Kieran (DestrosCMC) 👋
+## Hi there, my name is Kieran (DestrosCMC) 👋
+<img align="right" alt="GIF" height="275px" width="300px" src="/assets/coding_gif.gif" />
 
-## I am a student studying Data Science and Economics at CMC!
+### I am a student studying Data Science and Economics at CMC!
+
+
 - 🔍 I am interested in Machine Learning, Quant Finance, and Data Science
 - 👨‍💻 Right now, I am working on various Kaggle competitions 
 - 🌱 I’m currently learning more about Keras/Tensorflow and Pytorch 
@@ -8,7 +11,7 @@
 - 📫 How to reach me: LinkedIn primarily
 - ⚡ Fun fact: I have been skateboarding a lot during the pandemic 🛹
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Python" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/python.png" />
 <img align="left" alt="R" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/R logo.png" />
