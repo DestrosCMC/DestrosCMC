@@ -20,6 +20,7 @@
 <img align="left" alt="Plotly" width="43px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/plotly_logo.png" />
 <img align="left" alt="Jetbrains" width="38px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/jetbrains_logo.png" />
 <img align="left" alt="CPP" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/cpp_logo.png" />
+<br/>
 
 ****** 
 
