@@ -16,6 +16,8 @@
 <img align="left" alt="Excel" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/excel_logo.png" />
 <img align="left" alt="Scikit-learn" width="38px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/sk-learn.png" />
 <img align="left" alt="Pandas" width="38px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/pandas_logo.png" />
+<img align="left" alt="Keras" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/keras_logo.png" />
+<img align="left" alt="TensorFlow" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/tensorflow_logo.png" />
 <img align="left" alt="Numpy" width="38px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/numpy_logo.png" />
 <img align="left" alt="Plotly" width="43px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/plotly_logo.png" />
 <img align="left" alt="Jetbrains" width="38px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/jetbrains_logo.png" />
