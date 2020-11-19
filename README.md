@@ -47,11 +47,11 @@
 
 
 
-### Finished Projects 
+### Finished Projects: 
 ![Prez](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=2020-Election-Prediction)
 
 ### My stats:
-![Kieran's github stats](https://github-readme-stats.vercel.app/api?username=DestrosCMC&show_icons=true)
+![Kieran's github stats](https://github-readme-stats.vercel.app/api?username=DestrosCMC&show_icons=true&theme=cobalt)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DestrosCMC.visitor-badge)
