@@ -36,7 +36,6 @@
 
 ![SPY](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecasting-SPY)
 ![Revenue](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecast_revenue)
-![ESG](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=ESG_WebScraper)
 ![Options](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Options-with-CPP)
 
 
