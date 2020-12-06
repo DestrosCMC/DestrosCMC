@@ -9,8 +9,9 @@
 - 🌱 I’m currently learning more about Keras/Tensorflow
 - 💬 Ask me about skiing ⛷
 - 📫 How to reach me: LinkedIn primarily
-- ⚡ Fun fact: I have been skateboarding a lot during the pandemic 🛹
-
+<!---
+- ⚡ Fun fact: 
+--->
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/python.png" />
