@@ -6,7 +6,7 @@
 
 - 🔍 I am interested in Machine Learning, Quant Finance, and Data Science
 - 👨‍💻 Right now, I am working on a quant trading strategy 
-- 🌱 I’m currently learning more about Keras/Tensorflow
+- 🌱 I’m currently learning more about NLP w/ NLTK and Keras/Tensorflow
 - 💬 Ask me about skiing ⛷
 - 📫 How to reach me: LinkedIn primarily
 <!---
