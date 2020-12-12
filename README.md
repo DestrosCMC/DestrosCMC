@@ -9,9 +9,7 @@
 - 🌱 I’m currently learning more about NLP w/ NLTK and Keras/Tensorflow
 - 💬 Ask me about skiing ⛷
 - 📫 How to reach me: LinkedIn primarily
-\
-
-
+- ⚡ Hobbies: Skateboarding, English Premier League 
 
 <!---
 - ⚡ Fun fact: 
