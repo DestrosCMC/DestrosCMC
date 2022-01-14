@@ -44,14 +44,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecast_revenue" />
 </a>
 
-
-
-### Finished Projects: 
-
-[![Twitter Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=twitter_coronavirus)](https://github.com/DestrosCMC/twitter_coronavirus)
-
-![Prez](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=2020-Election-Prediction)
-
 ### My stats:
 ![Kieran's github stats](https://github-readme-stats.vercel.app/api?username=DestrosCMC&show_icons=true&theme=cobalt)
 
