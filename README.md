@@ -36,14 +36,14 @@
 
 ### What I'm working on:
 
+<a href="https://github.com/DestrosCMC/Solidity-Beginning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Solidity-Beginning" />
+</a>
 <a href="https://github.com/DestrosCMC/Forecasting-SPY">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecasting-SPY" />
 </a>
 <a href="https://github.com/DestrosCMC/Forecast_revenue">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecast_revenue" />
-</a>
-<a href="https://github.com/DestrosCMC/Options-with-CPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Options-with-CPP" />
 </a>
 
 
@@ -70,6 +70,8 @@
 
 
 ### Finished Projects: 
+![Twitter](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=twitter_coronavirus)
+
 ![Prez](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=2020-Election-Prediction)
 
 ### My stats:
