@@ -36,9 +36,7 @@
 
 ### What I'm working on:
 
-<a href="https://github.com/DestrosCMC/Solidity-Beginning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Solidity-Beginning" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Solidity-Beginning)](https://github.com/DestrosCMC/Solidity-Beginning)
 <a href="https://github.com/DestrosCMC/Forecasting-SPY">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecasting-SPY" />
 </a>
@@ -48,29 +46,9 @@
 
 
 
-<!---
-![SPY](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecasting-SPY)
-![Revenue](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecast_revenue)
-![Options](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Options-with-CPP)
-<a href="https://github.com/DestrosCMC/Forecast_revenue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecast_revenue" />
-</a>
-<a href="https://github.com/DestrosCMC/ESG_WebScraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=ESG_WebScraper" />
-</a>
-<a href="https://github.com/DestrosCMC/Options-with-CPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Options-with-CPP" />
-</a>
---->
-<!---
-![Revenue](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecast_revenue)
-![ESG](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=ESG_WebScraper)
---->
-
-
-
 ### Finished Projects: 
-![Twitter](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=twitter_coronavirus)
+
+[![Twitter Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=twitter_coronavirus)](https://github.com/DestrosCMC/twitter_coronavirus)
 
 ![Prez](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=2020-Election-Prediction)
 
