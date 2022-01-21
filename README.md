@@ -17,6 +17,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/python.png" />
+<img align="left" alt="Solidity" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/solidity_logo.jpg" />
 <img align="left" alt="R" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/R logo.png" />
 <img align="left" alt="SQL" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/mysql.png" />
 <img align="left" alt="Excel" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/excel_logo.png" />
