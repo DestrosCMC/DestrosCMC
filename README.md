@@ -34,6 +34,8 @@
 ### My Favorite Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestrosCMC&layout=compact)](https://github.com/DestrosCMC/github-readme-stats)
 
+<!---
+
 ### What I'm working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Solidity-Beginning)](https://github.com/DestrosCMC/Solidity-Beginning)
@@ -41,8 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecasting-SPY" />
 </a>
 <a href="https://github.com/DestrosCMC/Forecast_revenue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecast_revenue" />
-</a>
+--->
 
 ### My stats:
 ![Kieran's github stats](https://github-readme-stats.vercel.app/api?username=DestrosCMC&show_icons=true&theme=cobalt)
