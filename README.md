@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning more about Large Language Models
 - 💬 Ask me about skiing ⛷
 - 📫 How to reach me: LinkedIn primarily
-- ⚡ Hobbies & Interests: Freestyle Skiing, Blockchain/Smart Contracts, Machine Learning/AI, English Premier League
+- ⚡ Hobbies & Interests: Freestyle Skiing, Blockchain/Smart Contracts, Machine Learning/AI, NBA
 
 <!---
 - ⚡ Fun fact: 
